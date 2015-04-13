@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1428942572702,
+    "stop" : 1428942580432,
+    "duration" : 7730
+  },
+  "testSuites" : [ {
+    "uid" : "7e0a95014e1a0142",
+    "name" : "Default suite : Default test",
+    "title" : "Default suite : Default test",
+    "time" : {
+      "start" : 1428942572702,
+      "stop" : 1428942580432,
+      "duration" : 7730
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "7165930640e5be2f",
+      "name" : "RunTest",
+      "title" : "Run test",
+      "time" : {
+        "start" : 1428942572702,
+        "stop" : 1428942580432,
+        "duration" : 7730
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

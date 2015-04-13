@@ -1,0 +1,104 @@
+{
+  "uid" : "7165930640e5be2f",
+  "name" : "RunTest",
+  "title" : "Run test",
+  "time" : {
+    "start" : 1428942572702,
+    "stop" : 1428942580432,
+    "duration" : 7730
+  },
+  "summary" : {
+    "attachments" : 4,
+    "steps" : 1
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "7e0a95014e1a0142",
+    "name" : "Default suite : Default test",
+    "title" : "Default suite : Default test"
+  },
+  "steps" : [ {
+    "name" : "stepAct",
+    "title" : "Step act",
+    "time" : {
+      "start" : 1428942580426,
+      "stop" : 1428942580429,
+      "duration" : 3
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "Screenshot",
+    "source" : "c3fc4d0b-a437-4b31-8949-f6613bf8e896-attachment.png",
+    "type" : "image/png",
+    "size" : 377837,
+    "uid" : "a91e168bc2a17090"
+  }, {
+    "title" : "Screenshot",
+    "source" : "d79f5972-fa8f-4d46-bba5-0f46f08893bd-attachment.png",
+    "type" : "image/png",
+    "size" : 5459,
+    "uid" : "21532cc2cb0a6c3e"
+  }, {
+    "title" : "Screenshot",
+    "source" : "f98dc838-0c97-4f4f-bfd6-08e8efb2cfc2-attachment.png",
+    "type" : "image/png",
+    "size" : 75914,
+    "uid" : "2bd9aace7054172b"
+  }, {
+    "title" : "Screenshot",
+    "source" : "2ef03146-7ef4-4201-8ae6-27a1641fb1a1-attachment.png",
+    "type" : "image/png",
+    "size" : 45372,
+    "uid" : "5abb471f95582cd5"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Get Quotes"
+  }, {
+    "name" : "feature",
+    "value" : "Wells Fargo Feature"
+  }, {
+    "name" : "host",
+    "value" : "Platinum24-VAIO"
+  }, {
+    "name" : "thread",
+    "value" : "6480@Platinum24-VAIO.main(1)"
+  }, {
+    "name" : "suite-name",
+    "value" : "Default suite : Default test"
+  }, {
+    "name" : "suite-title",
+    "value" : "Default suite : Default test"
+  }, {
+    "name" : "framework",
+    "value" : "TestNG"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  } ],
+  "parameters" : [ {
+    "name" : "Author",
+    "value" : "Romeo and Juliet",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Character Name",
+    "value" : "Character",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  }, {
+    "name" : "Great Britain",
+    "value" : "British",
+    "kind" : "ENVIRONMENT_VARIABLE"
+  } ]
+}

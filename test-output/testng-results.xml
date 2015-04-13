@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15309" started-at="2015-04-13T16:29:25Z" finished-at="2015-04-13T16:29:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15309" started-at="2015-04-13T16:29:25Z" finished-at="2015-04-13T16:29:40Z">
+      <class name="WellsFargoPages.RunPage">
+        <test-method status="PASS" signature="getBrowser()[pri:0, instance:WellsFargoPages.RunPage@a565cbd]" name="getBrowser" is-config="true" duration-ms="7489" started-at="2015-04-13T12:29:25Z" finished-at="2015-04-13T12:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBrowser -->
+        <test-method status="PASS" signature="RunTest()[pri:0, instance:WellsFargoPages.RunPage@a565cbd]" name="RunTest" duration-ms="7764" started-at="2015-04-13T12:29:32Z" finished-at="2015-04-13T12:29:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunTest -->
+      </class> <!-- WellsFargoPages.RunPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

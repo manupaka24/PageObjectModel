@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "Platinum24-VAIO",
+    "threads" : [ {
+      "title" : "6480@Platinum24-VAIO.main(1)",
+      "testCases" : [ {
+        "uid" : "7165930640e5be2f",
+        "name" : "RunTest",
+        "title" : "Run test",
+        "time" : {
+          "start" : 1428942572702,
+          "stop" : 1428942580432,
+          "duration" : 7730
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}

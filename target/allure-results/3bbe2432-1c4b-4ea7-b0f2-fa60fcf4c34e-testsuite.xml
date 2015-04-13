@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1428942565156" stop="1428942580461" version="1.4.11" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Default suite : Default test</name>
+    <title>Default suite : Default test</title>
+    <test-cases>
+        <test-case start="1428942572702" stop="1428942580432" status="passed">
+            <name>RunTest</name>
+            <steps>
+                <step start="1428942580426" stop="1428942580429" status="passed">
+                    <name>stepAct</name>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments>
+                <attachment title="Screenshot" source="c3fc4d0b-a437-4b31-8949-f6613bf8e896-attachment.png" type="image/png" size="377837"/>
+                <attachment title="Screenshot" source="d79f5972-fa8f-4d46-bba5-0f46f08893bd-attachment.png" type="image/png" size="5459"/>
+                <attachment title="Screenshot" source="f98dc838-0c97-4f4f-bfd6-08e8efb2cfc2-attachment.png" type="image/png" size="75914"/>
+                <attachment title="Screenshot" source="2ef03146-7ef4-4201-8ae6-27a1641fb1a1-attachment.png" type="image/png" size="45372"/>
+            </attachments>
+            <labels>
+                <label name="story" value="Get Quotes"/>
+                <label name="feature" value="Wells Fargo Feature"/>
+                <label name="host" value="Platinum24-VAIO"/>
+                <label name="thread" value="6480@Platinum24-VAIO.main(1)"/>
+            </labels>
+            <parameters>
+                <parameter name="Author" value="Romeo and Juliet" kind="environment-variable"/>
+                <parameter name="Character Name" value="Character" kind="environment-variable"/>
+                <parameter name="Great Britain" value="British" kind="environment-variable"/>
+            </parameters>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
